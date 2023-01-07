@@ -1,4 +1,4 @@
-# ORW.part-oned = open("data.txt", "r", encoding="utf-8")
+d = open("data.txt", "r", encoding="utf-8")
 print(d)
 
 cook_book = {}
